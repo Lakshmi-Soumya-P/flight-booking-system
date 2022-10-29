@@ -136,10 +136,7 @@
         
         </div>
         
-</div>       
-<div class="footer">
-  <p>CSE311 | This website is made with &#128147; by Syed, Nafis, Tamanna & Lamia</p>
-</div>
+
 <script>
 
 
