@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Registration | SNTL Airlines</title>
-<link rel="icon" href="img/icon.png">
+<link rel="icon" href="C:\xampp\htdocs\flight system\img.png">
 <link href="styles.css" type="text/css" rel="stylesheet" />
 <link rel="stylesheet" href="css/styles.css">
 </head>
